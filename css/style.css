@@ -15,16 +15,15 @@ body {
 
 nav {
   margin: 0 auto;
-  padding: 10px 0px 15px 15px;
+  padding: 1% 0% 3% 3%;
   position: fixed;
   width: 420px;
   background-color: black;
 }
 
 .restaurant-list {
-  padding-top: 10%;
+  padding-top: 11%;
   width: 100%;
-
 }
 
 .content h1 {
@@ -32,41 +31,34 @@ nav {
   color: 000000;
   font-family: Arial;
   font-size: 18px;
-  line-height: 15px
 }
+
 .content h3 {
   font-weight: 200;
   color: 000000;
   font-family: Arial;
   font-size: 14px;
-  line-height: 0px
+  padding-top: 3%;
 }
+
 .location:hover {
-background-color: grey;
+  background-color: grey;
 }
+
 .location {
   background-color: #ffffff;
-
+  border-bottom: 1px solid black;
+  padding: 0% 5% 5% 5%;
 }
+
 .arrow{
-display:inline-block;
-float:right;
-padding-right: 5%;
-padding-top:8%;
-
-
+  display:inline-block;
+  float:right;
+  padding-right: 5%;
+  padding-top:7%;
 }
+
 .content{
   display:inline-block;
-
-}
-
-.location {
-
-  border-bottom: 1px solid black;
-
-  height: 65px;
-
-  padding: 0% 5% 19% 5%;
-
+  padding-top: 5%;
 }
